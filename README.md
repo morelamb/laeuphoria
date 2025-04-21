@@ -1,8 +1,11 @@
-# laeuphoria
+# la euphoria
 # **LA EUPHORIA: ESCAPE TO PARADISE - CD2 YOUTUBE VISUALISER (CITY/REALITY) BRIEF**  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
 ### **THEME**  
+
+
+
 **CD2 = "Reality" after paradise.**  
 - Think: **Gritty, moody, neon-lit cities, rain-soaked streets, urban decay, nostalgia, shadows.**  
 - **Avoid**: Tropical/beachy vibes (those are for CD1).  
