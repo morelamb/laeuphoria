@@ -4,10 +4,10 @@
 
 ### **THEME**  
 
-![Alt Text](./25845e8806aec857cfa1cd074f6e7234.jpg)
-![Alt Text](./4b8b279a8a0045e78f49712a9ca9c522.jpg)
-![Alt Text](./7abd18359c3bfdb6b37671402101c47d.jpg)
-![Alt Text]([./cover 1.png](https://github.com/morelamb/laeuphoria/blob/main/cover%201.png)
+<img src="./25845e8806aec857cfa1cd074f6e7234.jpg" alt="Alt Text" width="300" height="300" />
+<img src="./4b8b279a8a0045e78f49712a9ca9c522.jpg" alt="Alt Text" width="300" height="300" />
+<img src="./7abd18359c3bfdb6b37671402101c47d.jpg" alt="Alt Text" width="300" height="300" />
+<img src="./cover%201.png" alt="Alt Text" width="300" height="300" />
 
 **CD2 = "Reality" after paradise.**  
 - Think: **Gritty, moody, neon-lit cities, rain-soaked streets, urban decay, nostalgia, shadows.**  
