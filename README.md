@@ -10,7 +10,8 @@
 <img src="./cover%201.png" alt="Alt Text" width="300" height="300" />
 
 **CD2 = "Reality" after paradise.**  
-- Think: **Gritty, moody, neon-lit cities, rain-soaked streets, urban decay, nostalgia, shadows.**  
+- Think: **Gritty, moody, neon-lit cities, rain-soaked streets, urban decay, nostalgia, shadows.**
+- Motion blur, long exposure, grain+noisy textures
 - **Avoid**: Tropical/beachy vibes (those are for CD1).  
 
 ---
