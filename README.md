@@ -26,6 +26,7 @@
 - **Deadline**: ~20th June 2025.  
 
 #### **2. TEXT OVERLAY FOR VISUALISER**  
+- **Fonts**: [Here](https://drive.google.com/drive/folders/1Wirhm_DHQ5PY3Wxa79wtOqSSgvLvR-ZZ?usp=sharing) are the fonts that will be used. You can also use Helvetica Light 45 or Black 95
 - **Primary Text**: `[ARTIST NAME]`, `[TRACK NAME]` (synced to track).  
 - **Secondary Text**: Smaller `[LA EUPHORIA - ESCAPE TO PARADISE]`, `[TRACK #]`, `[CD #]`.  
 - **Deadline**: ~20th June 2025.  
