@@ -54,6 +54,12 @@
 - **CD2 Pinterest**: [Link](https://au.pinterest.com/earthangelbaby6000/la-euphoria-comp-1-part-2-visuals/)  
 - **Trailer (CD2 Section)**: [YouTube Short](https://youtube.com/shorts/LypUqu_TIng)  
 
+
+### **RESOURCES** 
+- **STOCK VIDEO SITES**: https://www.pexels.com/, http://pixabay.com/, https://unsplash.com/
+- **SAMPLING**: We encourage sampling, just make sure you add some effects / manipulate it to make it your own!
+- **TUMBLR AESTHETIC PAGES** https://www.tumblr.com/y2kaestheticinstitute, https://icydreamin.tumblr.com/ (@taffa :D), https://genxyac.tumblr.com/
+
 ---
 
 ### **NOTES**  
