@@ -19,7 +19,7 @@
 ### **DELIVERABLES**  
 
 #### **1. CD2 YOUTUBE VISUALISER VIDEO TO MATCH CD 2 AUDIO MIX**  
-- **Audio Mix**: [Google Drive Link](https://drive.google.com/drive/folders/1vdr_XBd6Ggp3doJg02zxIm8SoinshxpT?usp=sharing)  
+- **Audio Mix**: [Google Drive Link](https://drive.google.com/drive/folders/1vdr_XBd6Ggp3doJg02zxIm8SoinshxpT?usp=sharing) CD STARTS AT 42:00 
 - **Format**: 1920x1080 Video .mp4  
 - **Runtime**: ~40 minutes (use **looping motifs**, subtle stock footage).  
 - **Mood**: Surreal, retro-futuristic, liminal spaces, cityscapes.  
