@@ -48,12 +48,12 @@
 ---
 
 ### **REFERENCES**  
-- **CD2 Cover Art**: [Download](https://drive.google.com/file/d/16_FzW31O_8qo57hlG1qrp1uTZreh29iT/view?usp=sharing)  
-- **CD2 Video References**: [YouTube Playlist](https://youtube.com/playlist?list=PLVXGw95H43O2IlaFi6O0LEVaccvG3IrXy&si=YaAE10-HqlZBDlaq)  
-- **CD1 Visualiser Example**: [Video](https://youtu.be/whXnJarDuNY)  
+- **Promo Trailer**: [YouTube Short](https://youtube.com/shorts/LypUqu_TIng)  
+- **CD1 Visualiser Example**: [Video](https://youtu.be/Rzc6F3cUA0o)  
 - **CD1 Pinterest**: [Link](https://au.pinterest.com/dwams1/la-euphoria-comp-1-part-1-visuals/)  
 - **CD2 Pinterest**: [Link](https://au.pinterest.com/earthangelbaby6000/la-euphoria-comp-1-part-2-visuals/)  
-- **Trailer (CD2 Section)**: [YouTube Short](https://youtube.com/shorts/LypUqu_TIng)  
+- **CD2 Cover Art**: [Download](https://drive.google.com/file/d/16_FzW31O_8qo57hlG1qrp1uTZreh29iT/view?usp=sharing)  
+- **CD2 Video References**: [YouTube Playlist](https://youtube.com/playlist?list=PLVXGw95H43O2IlaFi6O0LEVaccvG3IrXy&si=YaAE10-HqlZBDlaq)  
 
 
 ### **RESOURCES** 
